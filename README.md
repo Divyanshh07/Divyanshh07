@@ -1,16 +1,16 @@
-👋 Hi, I'm Divyansh!  
+# 👋 Hi, I'm Divyansh!  
 🎓 B.Tech CSE Final Year Student | 💻 Full Stack Developer  
 
 ---
 
-🔖 About Me  
-💻 Enthusiastic Java Developer with hands-on experience in Spring Boot, MySQL, and ReactJS.  
-Passionate about building scalable web applications and continuously improving my problem-solving skills.  
-Currently seeking an opportunity to apply my Java expertise in a real-world environment, **learn from experienced developers**, and **contribute to impactful software solutions**.  
+## 🔖 About Me  
+💻 Enthusiastic **Java Developer** with hands-on experience in **Spring Boot**, **MySQL**, and **ReactJS**.  
+Passionate about building **scalable web applications** and continuously improving my **problem-solving skills**.  
+Currently seeking an opportunity to **apply my Java expertise** in a real-world environment, **learn from experienced developers**, and **contribute to impactful software solutions**.  
 
 ---
 
-🧠 Tech Stack  
+## 🧠 Tech Stack  
 
 **Programming Languages:** C, Java, Python  
 **Frontend:** ReactJS, HTML, CSS, JavaScript, Tailwind, Bootstrap  
